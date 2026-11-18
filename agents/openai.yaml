@@ -1,4 +1,4 @@
 interface:
   display_name: "科研图审美与构思"
-  short_description: "以学术创意组织丰富证据，兼顾高级感、高信息密度与非海报感"
-  default_prompt: "使用 $figure-aesthetics 优化这张科研图，发挥学术创意，让复杂证据丰富而易读，兼顾高级感与非海报感；守住真实数据和明确约定，不套预设图型。"
+  short_description: "以复杂而可核对的证据、紧密布局与鲜艳丰富的色彩设计学术论文图"
+  default_prompt: "使用 $figure-aesthetics 优化这张科研图，优先呈现真实证据的复杂层次、高信息密度与鲜艳丰富的色彩，让读者在论文尺寸下读到整体，也能查回细节。"
